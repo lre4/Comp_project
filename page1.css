@@ -5,8 +5,9 @@
     
 }
 
-
 #Index-temp{
     background-color: mintcream;
-    text-align: center;
-}
+    text-align: center;  
+    width: 600px ; 
+    height: 100px ;
+} 
