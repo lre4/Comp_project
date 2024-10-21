@@ -1,6 +1,13 @@
-#Weather-per-hour{
-    background-color: paleturquoise;
+body{ 
+    background-color: cornflowerblue;
+}
 
+
+.Weather-per-hour{
+    background-color: paleturquoise;
+    text-align: center;  
+    width: 600px ; 
+    height: 100px 
 
     
 }
@@ -11,3 +18,22 @@
     width: 600px ; 
     height: 100px ;
 } 
+
+
+h1{
+    background-color: mintcream; 
+    text-align: center;  
+}
+
+
+h2{ 
+    background-color: mintcream;
+    text-align: left;  
+    width: 600px;
+margin-top: 20px; 
+} 
+
+footer { 
+    background-color: mintcream; 
+    text-align: center; 
+}
