@@ -6,7 +6,7 @@ body{
 h1{ 
     background-color: mintcream; 
     text-align: center;
-    padding: 20px;
+    padding: 30px;
     float: center;
     border: 5px;
 border-style: solid;
@@ -17,7 +17,7 @@ border-color: skyblue;
 h4{ 
     background-color: skyblue; 
     text-align: center;
-    padding: 10px;
+    padding: 15px;
     float: center;
     border: 1px;
 border-style: solid;
@@ -49,7 +49,7 @@ border-color: mintcream;
 .changes{
     background-color: mintcream; 
     text-align: center;
-    padding: 10px;
+    padding: 15px;
     float: center;
     border: 5px;
 border-style: solid;
@@ -60,8 +60,18 @@ border-color: skyblue;
     background-color:rgba(190, 236, 236, 0.71); 
 text-align: center;
 padding: 10px;
+padding-top: 70px;
+padding-bottom:70px;
 float: center;
 border: 1px;
 border-style: solid;
 border-color: mintcream;
+}
+
+
+footer{
+    text-decoration: none;
+    text-align: center;
+    word-spacing: 20px;
+    background-color: azure;
 }
