@@ -70,3 +70,7 @@ footer{
     background-color: azure;
 }
 
+.weatherwidget.io{
+    height: 400px;
+    width: 1235px;
+}
