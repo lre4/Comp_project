@@ -1,0 +1,13 @@
+
+
+
+.p-3 {
+    padding: 1rem !important;
+    background-color: aquamarine; 
+    border: black 5px ;
+} 
+
+g-2, .gx-2 {
+        --bs-gutter-x: 0.5rem;
+        background-color: aqua;} 
+
