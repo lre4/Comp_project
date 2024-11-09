@@ -3,11 +3,40 @@
 
 .p-3 {
     padding: 1rem !important;
-    background-color: aquamarine; 
-    border: black 5px ;
-} 
+    background-color: rgb(255, 255, 255); 
+    border: black 7px ;  
+    font-size: 20px;
+
+}  
+
+p { 
+    background-color: rgb(105, 138, 152); 
+    font-size: 20px;
+}
 
 g-2, .gx-2 {
         --bs-gutter-x: 0.5rem;
-        background-color: aqua;} 
+        background-color: rgb(255, 255, 255);} 
 
+
+.card{ display: inline-block ;
+height: 30px}
+
+.card-img, .card-img-top {
+    border-top-left-radius: 50px;
+    border-top-right-radius: var(--bs-card-inner-border-radius);
+} 
+
+.display-3 { 
+    background-color: cadetblue;
+} 
+
+body { background-color: brown; 
+
+    position: static; 
+        
+        background-image: url(https://plus.unsplash.com/premium_photo-1689609950112-d66095626efb?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; 
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        background-position: center ;
+    }
