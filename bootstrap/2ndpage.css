@@ -28,7 +28,8 @@ height: 30px}
 } 
 
 .display-3 { 
-    background-color: cadetblue;
+    background-color: cadetblue; 
+    text-align: center;
 } 
 
 body { background-color: brown; 
@@ -44,4 +45,18 @@ body { background-color: brown;
 
     .mx-auto p-2  {background-color: azure;} 
 
-    .mx-auto p-2 { border: 20px;}
+    .mx-auto p-2 { border: 20px;} 
+
+
+.thenavbar { 
+    position: sticky; 
+    top: 0 ;
+    z-index: 1
+} 
+ 
+
+#UVtemp { 
+    background-color:rgba(135, 196, 213, 0.5) ; 
+    
+}
+
