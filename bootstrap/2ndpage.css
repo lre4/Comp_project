@@ -39,4 +39,9 @@ body { background-color: brown;
         background-size: cover; 
         background-repeat: no-repeat; 
         background-position: center ;
-    }
+    } 
+
+
+    .mx-auto p-2  {background-color: azure;} 
+
+    .mx-auto p-2 { border: 20px;}
