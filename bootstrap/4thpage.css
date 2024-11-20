@@ -8,8 +8,15 @@
 
 .display-6 { 
     background-color:rgba(135, 196, 213, 0.5) ; 
-    text-align: center;
+    text-align: center;    
+    transition: all;
+    transition-duration: 0.3s;
 } 
+
+
+    
+.display-6:hover{
+    font-size: 45px;}
 
 
 
