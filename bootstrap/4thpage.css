@@ -21,11 +21,31 @@
 
 
 
-.p-3 {
+#Month-Day {
     padding: 1rem !important;
     background-color: rgb(255, 255, 255); 
     border: black 7px ;  
     font-size: 20px;
+    text-align: center;
 }  
 
 
+
+
+.thenavbar { 
+    position: sticky; 
+    top: 0 ;
+    z-index: 1
+} 
+
+
+
+body { 
+
+    position: static; 
+        
+        background-image: url(rain.jpg) ; 
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        background-position: center ;
+    } 
