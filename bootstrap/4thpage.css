@@ -41,10 +41,9 @@
 
 
 body { 
-
     position: static; 
         
-        background-image: url(rain.jpg) ; 
+        background-image: url(rain.jpg); 
         background-size: cover; 
         background-repeat: no-repeat; 
         background-position: center ;
