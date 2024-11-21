@@ -1,0 +1,35 @@
+.display-3 { 
+    background-color: cadetblue; 
+    text-align: center;
+} 
+
+.p-3 {
+    padding: 1rem !important;
+    background-color: rgb(255, 255, 255); 
+    border: black 7px ;  
+    font-size: 20px;
+
+}  
+
+body { background-color: rgb(244, 184, 132); 
+
+    position: static; 
+        
+        background-image: url(https://img.freepik.com/premium-photo/vibrant-sun-wallpaper-blue-sky-background-sunny-day-vertical-mobile-wallpaper_896558-32385.jpg) ; 
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        background-position: center ;
+    } 
+
+
+.thenavbar { 
+    position: sticky; 
+    top: 0 ;
+    z-index: 1
+} 
+ 
+
+#UVtemp { 
+    background-color:rgba(135, 196, 213, 0.5) ; 
+    
+}
